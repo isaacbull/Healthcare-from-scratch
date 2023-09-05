@@ -4,6 +4,7 @@ A healthcare app/web service that provides a lot of services to healthcare provi
 ## Tasks:
 ### first major iteration:
 ***in no particular order***
+- One at a time 
 - Build EMR/EHR data models
 - build forms and interface for client to manage EHR in realtime 
 - build model and web service for medical image analytics engine (MIAE).
